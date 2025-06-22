@@ -127,7 +127,6 @@ const product=[
 // addcart.addEventListener(("click"),()=>{
 //  cart_container.innerHTML=`
 //              <div class="cart_box">
-//                   <img src="image/Airbuds.webp" alt="" id="cartimg">
 //                   <div class="cartbtn">
 //                       <button>-</button>
 //                       <button>1</button>
