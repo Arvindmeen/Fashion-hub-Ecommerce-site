@@ -94,53 +94,6 @@ const product=[
 ];
 
 
-// let addcart=document.getElementById("addtocart");
-// let cart_container=document.getElementById("cart_container");
-// // let card=document.getElementById("add");
-
-// let i=0
-// addcart.addEventListener(("click"),()=>{
-// cart_container.innerHTML=product.map((item)=>{
-//   var src=item;
-//   return(
-//     `<div class="cart_box">
-// //                   <img src="image/Airbuds.webp" alt="" id="cartimg">
-// //                   <div class="cartbtn">
-// //                       <button>-</button>
-// //                       <button>1</button>
-// //                       <button>+</button>
-// //                   </div>
-// //                   <button id="remove">Remove</button>
-// //               </div>`
-//   )
-// }).join();
-
-// });
-
-// document.addEventListener("DOMContentLoaded", () => {
-// let addcart=document.getElementById("addtocart");
-// let cart_container=document.getElementById("cart_container");
-// // let card=document.getElementById("add");
-
-// // console.log(addcart);
-//   // console.log(cart_container);
-// addcart.addEventListener(("click"),()=>{
-//  cart_container.innerHTML=`
-//              <div class="cart_box">
-//                   <div class="cartbtn">
-//                       <button>-</button>
-//                       <button>1</button>
-//                       <button>+</button>
-//                   </div>
-//                   <button id="remove">Remove</button>
-//               </div> 
-//             ` ;
-//   // console.log(addcart);
-//   // console.log(cart_container);
-// });
-// });
-
-
 
 
 

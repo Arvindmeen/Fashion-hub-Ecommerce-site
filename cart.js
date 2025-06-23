@@ -1,27 +1,5 @@
-// document.addEventListener("DOMContentLoaded", () => {
-// let addcart=document.getElementById("addtocart");
-// let cart_container=document.getElementById("cart_container");
-// let card=document.getElementById("add");
 
-// // console.log(addcart);
-//   // console.log(cart_container);
-// addcart.addEventListener(("click"),()=>{
-//  cart_container.innerHTML=`
-//              <div class="cart_box">
-//                   <img src="image/Airbuds.webp" alt="" id="cartimg">
-//                   <div class="cartbtn">
-//                       <button>-</button>
-//                       <button>1</button>
-//                       <button>+</button>
-//                   </div>
-//                   <button id="remove">Remove</button>
-//               </div> 
-//             ` ;
-//   // console.log(addcart);
-//   // console.log(cart_container);
-// });
-// });
-
+// cart ka 
 
 document.addEventListener("DOMContentLoaded", () => {
   const cartContainer = document.getElementById("cart_container");

@@ -161,6 +161,7 @@ ul li a.active {
     margin-inline: 20px;
     border-radius: 20px;
     box-shadow: 2px 4px 6px;
+   
 }
 .cards .crd{
     margin-bottom: 15px;
@@ -171,6 +172,11 @@ ul li a.active {
     height: 320px;
     cursor: pointer;
     color: gray;
+     box-shadow:
+     0 0 15px #bd1ecf,
+    0 0 25px gray,
+    0 0 40px orangered;
+  
 }
 
 .cards .crd h3 {
@@ -648,7 +654,7 @@ cursor: pointer;
 background-color: gray;
 color: white;
 }
-.cart_box #remove{
+.cart_box .remove{
 width:80px ;
 /* padding: 0px 10px; */
 cursor: pointer;
